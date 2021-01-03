@@ -1,6 +1,6 @@
 
-/*I've done this program using la4j library. So, It needs to install la4j.jar in the class pacakage to run 
-the program sucessfully. */
+/* I've done this program using la4j library. So, It needs to install la4j.jar in the class pacakage to run 
+the program sucessfully.  */
 
 
 
@@ -105,7 +105,7 @@ Enter the elements of matrix A rowwise(i.e. first complete a row and then enter 
 141.228
 0
 1
-The matrix A looks like this: 
+The matrix A looks like this:  
   121.622  128.066 1.000 0.000
  -128.066  121.622 0.000 1.000
   141.228 -187.718 1.000 0.000
