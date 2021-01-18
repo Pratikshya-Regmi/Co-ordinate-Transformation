@@ -1,5 +1,5 @@
 
-/* I've done this program using la4j library. So, It needs to install la4j.jar in the class pacakage to run 
+/*  I've done this program using la4j library. So, It needs to install la4j.jar in the class pacakage to run 
 the program sucessfully.  */
 
 
